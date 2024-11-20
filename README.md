@@ -1,1 +1,1 @@
-# Marketin Analytics Project
+# Marketing Analytical Project
